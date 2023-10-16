@@ -15,6 +15,14 @@ Before running the code, make sure to:
 2. **Set the Font Size**: Set the font size to "3."
 3. **Resize the Window**: Resize the window to fit 150x150 characters in Notepad.
 
+### Visual Enhancements (To Be Implemented)
+The "tobeimplemented" folder contains files and resources that can be implemented to enhance the visual appeal of the project. You can explore and integrate these resources into the codebase as desired.
+
+### Graphics and Images
+The ".sprites" folder contains raw image files in the PNG format. The code located in the "imagetoprefab" folder, written in Python, can be used to convert these images into ".objt" format. The resulting ".objt" files are then located in the ".prefabs" folder. ".objt" files are just text files containing the ASCII representation of images which are (depending on what it is) less than 150x150 (as this is our canvas size).
+
+Feel free to leverage these assets to improve the visual elements of your project.
+
 ## Additional Information
 
 For a better understanding of the code and its functionality, we recommend reading the comments, especially in the `main.cpp` file.
