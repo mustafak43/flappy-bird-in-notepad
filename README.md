@@ -1,4 +1,7 @@
 # flappy-bird-in-notepad
+
+Flappy Bird clone running inside Windows Notepad. Either you can play it or let the agents learn how to play it.
+
 ## System Requirements
 
 - **Compiler**: Requires C++17 or above.
