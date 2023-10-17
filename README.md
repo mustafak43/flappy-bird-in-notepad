@@ -7,6 +7,10 @@
 **Note for Windows 10 and Below:**
 If you are using Windows 10 or an earlier version, you may need to modify the code responsible for obtaining the handle for Notepad and its edit box.
 
+## Demo
+
+https://youtu.be/DCfDiIQDK9o
+
 ## Preparation
 
 Before running the code, make sure to:
