@@ -12,7 +12,7 @@ If you are using Windows 10 or an earlier version, you may need to modify the co
 
 ## Demo
 
-https://youtu.be/DCfDiIQDK9o
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DCfDiIQDK9o/0.jpg)](https://www.youtube.com/watch?v=DCfDiIQDK9o)
 
 ## Preparation
 
